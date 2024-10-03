@@ -5,11 +5,17 @@ This project focuses on analyzing a dataset containing sales data during the Diw
 
 
 -Gender
+
 -Marital_Status
+
 -State
+
 -Zone
+
 -Occupation
+
 -Product_Category
+
 -Orders
 
 The aim of the analysis is to generate clear visualizations and insights from the data, categorized by different aspects. Additionally, this project lays the groundwork for future predictive modeling on top of the data.
